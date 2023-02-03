@@ -11,12 +11,8 @@
             "id": "68c7431f786dd62c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "[译] NAT 穿透是如何工作的：技术原理及企业级实践（Tailscale, 2020）.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "[译] NAT 穿透是如何工作的：技术原理及企业级实践（Tailscale, 2020）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "[译] NAT 穿透是如何工作的：技术原理及企业级实践（Tailscale, 2020）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "[译] NAT 穿透是如何工作的：技术原理及企业级实践（Tailscale, 2020）.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,9 +138,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "68c7431f786dd62c",
+  "active": "43ebb122b8b28e47",
   "lastOpenFiles": [
+    "Rclone 安装配置教程 - 连接 OneDrive 和 Google Drive - P3TERX ZONE.md",
+    "Microsoft 365 E5 Renew Plus 续订程序  EdNovas 的小站.md",
     "【OFFICE365】全网最简单：Office E5 绑定 GitHub 账号续订 - RJDR.NET.md",
+    "[译] NAT 穿透是如何工作的：技术原理及企业级实践（Tailscale, 2020）.md",
     "Microsoft Office 365 E5 SMTP 邮件发送问题  柒社.md"
   ]
 }
