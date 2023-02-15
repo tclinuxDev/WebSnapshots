@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5cc88e0341e75205",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "该死！Github上这些C++项目真香.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "将网页转换为Markdown的方法.md",
+                "file": "该死！Github上这些C++项目真香.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "将网页转换为Markdown的方法.md",
+                "file": "该死！Github上这些C++项目真香.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "将网页转换为Markdown的方法.md"
+                "file": "该死！Github上这些C++项目真香.md"
               }
             }
           }
@@ -146,10 +159,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "b46431e30cd81b99",
+  "active": "5cc88e0341e75205",
   "lastOpenFiles": [
-    "使用 ZeroTier 异地组网 – BOXKS.md",
     "将网页转换为Markdown的方法.md",
+    "使用 ZeroTier 异地组网 – BOXKS.md",
     "[译] NAT 穿透是如何工作的：技术原理及企业级实践（Tailscale, 2020）.md",
     "【OFFICE365】全网最简单：Office E5 绑定 GitHub 账号续订 - RJDR.NET.md",
     "Microsoft 365 E5 Renew Plus 续订程序  EdNovas 的小站.md",
