@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "[译] NAT 穿透是如何工作的：技术原理及企业级实践（Tailscale, 2020）.md",
+                "file": "使用 ZeroTier 异地组网 – BOXKS.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "[译] NAT 穿透是如何工作的：技术原理及企业级实践（Tailscale, 2020）.md",
+                "file": "使用 ZeroTier 异地组网 – BOXKS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "[译] NAT 穿透是如何工作的：技术原理及企业级实践（Tailscale, 2020）.md",
+                "file": "使用 ZeroTier 异地组网 – BOXKS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "[译] NAT 穿透是如何工作的：技术原理及企业级实践（Tailscale, 2020）.md"
+                "file": "使用 ZeroTier 异地组网 – BOXKS.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "b46431e30cd81b99",
   "lastOpenFiles": [
+    "[译] NAT 穿透是如何工作的：技术原理及企业级实践（Tailscale, 2020）.md",
     "【OFFICE365】全网最简单：Office E5 绑定 GitHub 账号续订 - RJDR.NET.md",
     "Microsoft 365 E5 Renew Plus 续订程序  EdNovas 的小站.md",
     "SSH隧道：端口转发功能详解 - 骏马金龙 - 博客园.md",
@@ -156,7 +157,6 @@
     "服务器 - Ubuntu 通过 Netplan 配置网络教程 - 个人文章 - SegmentFault 思否.md",
     "[教程] WordPress配置Office 365实现域名邮箱收发邮件 - Justin写字的地方.md",
     "v2ex-Nginx 做反代，设置 SSL 证书问题.png",
-    "SSH原理与运用（二）：远程操作与端口转发 - 阮一峰的网络日志.md",
-    "README.md"
+    "SSH原理与运用（二）：远程操作与端口转发 - 阮一峰的网络日志.md"
   ]
 }
