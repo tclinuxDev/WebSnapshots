@@ -20,6 +20,30 @@
             }
           },
           {
+            "id": "3ebd7241f3958aba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "写在停产之后：详解傲腾（上篇•消费级）_硬盘_什么值得买.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3ff22702e1a99f88",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "笔电折腾 篇四：笔记本内存的选购与分析_笔记本内存_什么值得买.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "40f1abf959af41b0",
             "type": "leaf",
             "state": {
@@ -31,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -97,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "【原创】从Ubuntu-base构建ubuntu rootfs系统(以x86_64和arm为例) - 沐多 - 博客园.md",
+                "file": "笔电折腾 篇四：笔记本内存的选购与分析_笔记本内存_什么值得买.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "【原创】从Ubuntu-base构建ubuntu rootfs系统(以x86_64和arm为例) - 沐多 - 博客园.md",
+                "file": "笔电折腾 篇四：笔记本内存的选购与分析_笔记本内存_什么值得买.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "【原创】从Ubuntu-base构建ubuntu rootfs系统(以x86_64和arm为例) - 沐多 - 博客园.md"
+                "file": "笔电折腾 篇四：笔记本内存的选购与分析_笔记本内存_什么值得买.md"
               }
             }
           }
@@ -158,17 +183,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "5cc88e0341e75205",
+  "active": "43ebb122b8b28e47",
   "lastOpenFiles": [
+    "写在停产之后：详解傲腾（上篇•消费级）_硬盘_什么值得买.md",
+    "【原创】从Ubuntu-base构建ubuntu rootfs系统(以x86_64和arm为例) - 沐多 - 博客园.md",
     "将网页转换为Markdown的方法.md",
     "在Ubuntu上启用和禁用NetworkManager - soso101 - 博客园.md",
-    "【原创】从Ubuntu-base构建ubuntu rootfs系统(以x86_64和arm为例) - 沐多 - 博客园.md",
     "该死！Github上这些C++项目真香.md",
     "使用 ZeroTier 异地组网 – BOXKS.md",
     "[译] NAT 穿透是如何工作的：技术原理及企业级实践（Tailscale, 2020）.md",
     "【OFFICE365】全网最简单：Office E5 绑定 GitHub 账号续订 - RJDR.NET.md",
     "Microsoft 365 E5 Renew Plus 续订程序  EdNovas 的小站.md",
-    "SSH隧道：端口转发功能详解 - 骏马金龙 - 博客园.md",
-    "内网穿透详解 - cyrus0w - 博客园.md"
+    "SSH隧道：端口转发功能详解 - 骏马金龙 - 博客园.md"
   ]
 }
