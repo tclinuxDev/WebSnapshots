@@ -4,11 +4,7 @@
 
   
 
-![](https://pic4.zhimg.com/v2-7364620f5d1a12fc38ce4ba015610ba3_b.jpg)
-
-![](https://pic4.zhimg.com/80/v2-7364620f5d1a12fc38ce4ba015610ba3_720w.webp)
-
-  
+![](https://pic4.zhimg.com/v2-7364620f5d1a12fc38ce4ba015610ba3_b.jpg)  
 
   
 
@@ -102,11 +98,7 @@ CppTemplateTutorial 为中文的 C++ Template 的教学指南。与知名书籍 
 
 Tinytetris 是一个用 C++ 编写的终端版俄罗斯方块游戏。它提供了两个版本的源码，分为注释版和库版，注释较多易于理解和学习。  
 
-![](https://pic3.zhimg.com/v2-87c7a3ec7ac3cab7977812800821080e_b.jpg)
-
-![](https://pic3.zhimg.com/80/v2-87c7a3ec7ac3cab7977812800821080e_720w.webp)
-
-  
+![](https://pic3.zhimg.com/v2-87c7a3ec7ac3cab7977812800821080e_b.jpg) 
 
   
 
@@ -120,11 +112,7 @@ Tinytetris 是一个用 C++ 编写的终端版俄罗斯方块游戏。它提供�
 
 微软开源的 Windows 系统预装的计算器工具。该工具提供标准、科学、程序员计算器的功能，以及各种度量单位和货币之间的转换功能。快来看看微软工程师编写的代码吧！学习大厂的编码规范、项目结构之类的，提高阅读源码的能力。英文的项目且没有讲解部分，需要通过阅读源码学习，难度较高。  
 
-![](https://pic3.zhimg.com/v2-4de82d15eb8495d4dfda7499184d5b4a_b.jpg)
-
-![](https://pic3.zhimg.com/80/v2-4de82d15eb8495d4dfda7499184d5b4a_720w.webp)
-
-  
+![](https://pic3.zhimg.com/v2-4de82d15eb8495d4dfda7499184d5b4a_b.jpg) 
 
   
 
@@ -159,11 +147,6 @@ Seafile是一个开源、专业、可靠的云存储平台；解决文件集中�
 Seafile是一款强大优秀的云同步软件，拥有跨平台文件同步、移动端文件访问、挂载盘、文件共享和权限控制、文件锁定、文件版本管理和资料库镜像、在线编辑和协同编辑、审计日志等功能。  
 
 ![](https://pic2.zhimg.com/v2-d10f1352aa36d739a0586c6a95ee7b7d_b.jpg)
-
-![](https://pic2.zhimg.com/80/v2-d10f1352aa36d739a0586c6a95ee7b7d_720w.webp)
-
-  
-
   
 
 > github->[https://github.com/haiwen/seafile](https://link.zhihu.com/?target=https%3A//github.com/haiwen/seafile)
@@ -186,10 +169,6 @@ Hikyuu Quant Framework是一款基于C++/Python的开源量化交易研究框架
 
 ![](https://pic1.zhimg.com/v2-c4697e6920aac8a87fbe7bd0ac18446c_b.jpg)
 
-![](https://pic1.zhimg.com/80/v2-c4697e6920aac8a87fbe7bd0ac18446c_720w.webp)
-
-  
-
   
 
 > github->[https://github.com/fasiondog/hikyuu](https://link.zhihu.com/?target=https%3A//github.com/fasiondog/hikyuu)
@@ -207,8 +186,6 @@ Apollo (阿波罗)是一个开放的、完整的、安全的平台，将帮助�
 Apollo 是百度重点打造的 AI 开放平台之一，计划主要包含 4 个技术模块：定位/感知模块、车辆规划与运营（AI+大数据，精准控制车辆，适合不同路况）、软件运营框架（支持英特尔、英伟达等多种芯片）。  
 
 ![](https://pic4.zhimg.com/v2-8b27438229f52fd29dbeca872cb63c87_b.jpg)
-
-![](https://pic4.zhimg.com/80/v2-8b27438229f52fd29dbeca872cb63c87_720w.webp)
 
   
 
