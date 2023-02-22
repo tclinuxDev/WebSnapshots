@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "该死！Github上这些C++项目真香.md",
+                "file": "笔电折腾 篇四：笔记本内存的选购与分析_笔记本内存_什么值得买.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "该死！Github上这些C++项目真香.md",
+                "file": "笔电折腾 篇四：笔记本内存的选购与分析_笔记本内存_什么值得买.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "该死！Github上这些C++项目真香.md",
+                "file": "笔电折腾 篇四：笔记本内存的选购与分析_笔记本内存_什么值得买.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "该死！Github上这些C++项目真香.md"
+                "file": "笔电折腾 篇四：笔记本内存的选购与分析_笔记本内存_什么值得买.md"
               }
             }
           }
@@ -233,6 +233,7 @@
   },
   "active": "ed674798d59b99de",
   "lastOpenFiles": [
+    "该死！Github上这些C++项目真香.md",
     "v2ex-Nginx 做反代，设置 SSL 证书问题.png",
     "[译] NAT 穿透是如何工作的：技术原理及企业级实践（Tailscale, 2020）.md",
     "[教程] WordPress配置Office 365实现域名邮箱收发邮件 - Justin写字的地方.md",
@@ -241,7 +242,6 @@
     "9.2.4. 将 iptables 转换为 nftables 的新工具 Red Hat Enterprise Linux 8 - Red Hat Customer Portal.md",
     "Iptables 与 Nftables有什么区别？-月灯依旧.md",
     "iptables和nftables有什么区别-智传网优云课堂.md",
-    "Microsoft 365 E5 Renew Plus 续订程序  EdNovas 的小站.md",
-    "nftables相比iptables到底改变了什么_dog250的博客-CSDN博客.md"
+    "Microsoft 365 E5 Renew Plus 续订程序  EdNovas 的小站.md"
   ]
 }
