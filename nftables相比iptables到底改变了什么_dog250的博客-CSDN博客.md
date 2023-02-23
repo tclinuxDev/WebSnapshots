@@ -5,9 +5,7 @@ source: https://blog.csdn.net/dog250/article/details/54170683
 author: 
 ---
 
-# nftables相比iptables到底改变了什么_dog250的博客-CSDN博客
 
-> ## Excerpt
 > 这不是一篇教你怎么可以配置nftables实现一个哪怕最简单防火墙的文章，我从来不写这种Howto，因为我觉得如果一项新技术，一个人连其本身的文档都懒得看，即便没有文档如果没有一点钻研精神将其搞懂，只靠看别人写好的Step by step的话，那真是太失败了。相反，这篇文章是一篇檄文，只为吹擂打鼓，目的是让你在无感于iptables的前提下爱上nftables。------------------
 
 ---
