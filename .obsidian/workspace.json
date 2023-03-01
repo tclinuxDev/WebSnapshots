@@ -76,6 +76,18 @@
             }
           },
           {
+            "id": "58c0471691133fcf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zerotier的最佳替代者tailscale - DongVPS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "1dca189ecc87498e",
             "type": "leaf",
             "state": {
@@ -100,7 +112,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -166,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tailscale 异地组网 P2P内网穿透 - Y4er的博客.md",
+                "file": "zerotier的最佳替代者tailscale - DongVPS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tailscale 异地组网 P2P内网穿透 - Y4er的博客.md",
+                "file": "zerotier的最佳替代者tailscale - DongVPS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tailscale 异地组网 P2P内网穿透 - Y4er的博客.md"
+                "file": "zerotier的最佳替代者tailscale - DongVPS.md"
               }
             }
           }
@@ -227,8 +239,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ed674798d59b99de",
+  "active": "58c0471691133fcf",
   "lastOpenFiles": [
+    "Tailscale 异地组网 P2P内网穿透 - Y4er的博客.md",
     "v2ex-Nginx 做反代，设置 SSL 证书问题.png",
     "在Ubuntu上启用和禁用NetworkManager - soso101 - 博客园.md",
     "笔电折腾 篇四：笔记本内存的选购与分析_笔记本内存_什么值得买.md",
@@ -237,7 +250,6 @@
     "【原创】从Ubuntu-base构建ubuntu rootfs系统(以x86_64和arm为例) - 沐多 - 博客园.md",
     "9.2.4. 将 iptables 转换为 nftables 的新工具 Red Hat Enterprise Linux 8 - Red Hat Customer Portal.md",
     "iptables和nftables有什么区别-智传网优云课堂.md",
-    "Iptables 与 Nftables有什么区别？-月灯依旧.md",
-    "Microsoft 365 E5 Renew Plus 续订程序  EdNovas 的小站.md"
+    "Iptables 与 Nftables有什么区别？-月灯依旧.md"
   ]
 }
