@@ -67,8 +67,12 @@
             "id": "ed674798d59b99de",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Tailscale 异地组网 P2P内网穿透 - Y4er的博客.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -162,6 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Tailscale 异地组网 P2P内网穿透 - Y4er的博客.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,6 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Tailscale 异地组网 P2P内网穿透 - Y4er的博客.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +205,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Tailscale 异地组网 P2P内网穿透 - Y4er的博客.md"
+              }
             }
           }
         ]
@@ -219,8 +227,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "43ebb122b8b28e47",
+  "active": "ed674798d59b99de",
   "lastOpenFiles": [
+    "v2ex-Nginx 做反代，设置 SSL 证书问题.png",
     "在Ubuntu上启用和禁用NetworkManager - soso101 - 博客园.md",
     "笔电折腾 篇四：笔记本内存的选购与分析_笔记本内存_什么值得买.md",
     "该死！Github上这些C++项目真香.md",
@@ -229,7 +238,6 @@
     "9.2.4. 将 iptables 转换为 nftables 的新工具 Red Hat Enterprise Linux 8 - Red Hat Customer Portal.md",
     "iptables和nftables有什么区别-智传网优云课堂.md",
     "Iptables 与 Nftables有什么区别？-月灯依旧.md",
-    "Microsoft 365 E5 Renew Plus 续订程序  EdNovas 的小站.md",
-    "nftables相比iptables到底改变了什么_dog250的博客-CSDN博客.md"
+    "Microsoft 365 E5 Renew Plus 续订程序  EdNovas 的小站.md"
   ]
 }
